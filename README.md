@@ -6,9 +6,14 @@ Here are some ideas to get you started:
 - 🌱 Estudando Power BI e me aprofundando no universo de análise de dados!
 - 📫 Como entrar em contato comigo: ingridoliveirag01@gmail.com
 
+- ### Tecnologias e Ferramentas
+
+Aqui estão algumas das tecnologias que eu estou aprendendo e utilizando:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ingrid-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+   <img align="center" alt="PowerBI" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powerbi.svg">
 </div>
 
 ## Redes Sociais
